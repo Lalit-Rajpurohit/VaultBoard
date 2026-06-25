@@ -23,8 +23,8 @@ An offline-first React Native app that blends a note‑taking app, a Trello‑st
 | Home dashboard | Notes | Note editor |
 | :---: | :---: | :---: |
 | <img src="./assets/screenshots/home.jpg" width="240"/> | <img src="./assets/screenshots/notes.jpg" width="240"/> | <img src="./assets/screenshots/note-editor.jpg" width="240"/> |
-| **Note + backlinks** | **Kanban board** | **Vault / graph** |
-| <img src="./assets/screenshots/new-task.jpg" width="240"/> | <img src="./assets/screenshots/board.jpg" width="240"/> | <img src="./assets/screenshots/vault.jpg" width="240"/> |
+| **Kanban board** | **Card editor** | **Vault / graph** |
+| <img src="./assets/screenshots/board.jpg" width="240"/> | <img src="./assets/screenshots/card-detail.jpg" width="240"/> | <img src="./assets/screenshots/vault.jpg" width="240"/> |
 | **Tasks** | **Tags & folders** | **Settings** |
 | <img src="./assets/screenshots/tasks.jpg" width="240"/> | <img src="./assets/screenshots/tags-folders.jpg" width="240"/> | <img src="./assets/screenshots/settings.jpg" width="240"/> |
 | **Quick add** | **Backup & restore** | **Onboarding** |
